@@ -1,0 +1,27 @@
+.control__btn {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 5px 5px;
+    background-color: #eead79;
+    color: rgb(16, 0, 54);
+    border: 1px solid rgb(16, 0, 54);
+    cursor: pointer;
+
+}
+
+/*.control__btn:hover {*/
+/*    background-color: rgb(16, 0, 54);*/
+/*    color: rgb(255, 255, 255);*/
+/*    border: 1px solid rgb(16, 0, 54);*/
+/*}*/
+
+.control_btn__disable {
+    background: #ccc;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 5px 5px;
+    color: rgb(16, 0, 54);
+    border: 1px solid rgb(16, 0, 54);
+    cursor: pointer;
+}
+
